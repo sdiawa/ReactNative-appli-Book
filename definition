@@ -1,0 +1,22 @@
+pourquoi expo:
+est un ensemble des outils qui facilite le developpement d'application avec recat native.
+
+Defintion:
+App native: sont des applications  specifiques developpées pour un systeme d'explotation
+App cross-platform: a l'inverse  des applications natives, sont  developpées  sur une seule et unique fois et sont  compatibkes sur IOS et Android 
+
+react Native est un Framework javaScript basé sur React il permet de contruire des applications mobile native sous ios  et android(multiplaforme).
+Les 7 composants capitaux de react native:
+1) View
+2) Text
+3) StyleSheet
+4) TextInput
+5) Image
+6)ScrollView
+7)Flatlist
+
+installer react navigator
+https://reactnavigation.org/docs/getting-started
+yarn add @react-navigation/native
+npx expo install react-native-screens react-native-safe-area-context
+yarn add @react-navigation/native-stack
